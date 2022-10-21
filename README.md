@@ -1,3 +1,3 @@
 # ujiandatset
 # NAMA : ASEP PERMADI
-NIM : F55121049
+# NIM : F55121049
